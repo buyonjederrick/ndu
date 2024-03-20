@@ -1,0 +1,14 @@
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\bin\Debug\net8.0\NdejjeSession.exe
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\bin\Debug\net8.0\NdejjeSession.deps.json
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\bin\Debug\net8.0\NdejjeSession.runtimeconfig.json
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\bin\Debug\net8.0\NdejjeSession.dll
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\bin\Debug\net8.0\NdejjeSession.pdb
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.dll
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\refint\NdejjeSession.dll
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.pdb
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\NdejjeSession.genruntimeconfig.cache
+C:\Users\Joseph\Desktop\NdejjeSession\NdejjeSession\obj\Debug\net8.0\ref\NdejjeSession.dll
